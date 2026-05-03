@@ -1,0 +1,34 @@
+{
+  "testerRoleId": "1500172522539188496",
+  "staffRoleId": "1500172801737490473",
+  "queueChannelId": "1498638053386752141",
+  "colors": {
+    "primary": "#9B59B6",
+    "success": "#8E44AD",
+    "error": "#E74C3C",
+    "info": "#BB8FCE"
+  },
+  "tiers": [
+    "HT1", "LT1", 
+    "HT2", "LT2", 
+    "HT3", "LT3", 
+    "HT4", "LT4", 
+    "HT5", "LT5"
+  ],
+  "kits": [
+    "Crystal",
+    "Sword",
+    "Pot",
+    "Axe",
+    "SMP",
+    "Mace",
+    "NethOP",
+    "UHC",
+    "Creeper",
+    "DiaSMP",
+    "Speed",
+    "FakeSMP",
+    "SpearMace",
+    "Minecart"
+  ]
+}
